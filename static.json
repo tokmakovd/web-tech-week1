@@ -1,7 +1,8 @@
 {
   "headers": {
       "/*": {
-          "X-Author": "tokmakovdm"
+        "X-Author": "tokmakovdm",
+        "Access-Control-Allow-Origin": "*"
       }
   }
 }
